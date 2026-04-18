@@ -1,0 +1,2239 @@
+{
+  "IRBND001": {
+    "name": "Bandar Abbas (Iran)",
+    "activity": {
+      "expected": [
+        {
+          "id": "9349679",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "ZARDIS",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9096325",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "ARIA",
+          "type": "Landing Craft"
+        },
+        {
+          "id": "9465760",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "BATIS",
+          "type": "Bulk Carrier"
+        }
+      ],
+      "arrivals": [
+        {
+          "id": "9859480",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KAREN8",
+          "type": "Tug"
+        },
+        {
+          "id": "9389667",
+          "flag": "km",
+          "country": "Comoros",
+          "name": "ARAD1",
+          "type": "Landing Craft"
+        },
+        {
+          "id": "9197088",
+          "flag": "kn",
+          "country": "St Kitts &amp; Nevis",
+          "name": "HUDA",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9820312",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "NIKI",
+          "type": "Chemical/Oil Products Tanker"
+        },
+        {
+          "id": "9772632",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "SHAYA 18513",
+          "type": "Tug"
+        },
+        {
+          "id": "9859480",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KAREN8",
+          "type": "Tug"
+        },
+        {
+          "id": "9387798",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "BAVAND",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9380300",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KHALIJ FARS 4",
+          "type": "Tug"
+        },
+        {
+          "id": "9748875",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "422071900",
+          "type": "Tug"
+        },
+        {
+          "id": "9387786",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "PARSHAD",
+          "type": "Bulk Carrier"
+        }
+      ],
+      "departures": [
+        {
+          "id": "9197088",
+          "flag": "kn",
+          "country": "St Kitts &amp; Nevis",
+          "name": "HUDA",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9859480",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KAREN8",
+          "type": "Tug"
+        },
+        {
+          "id": "9387803",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "DELNAVAZ",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9197088",
+          "flag": "kn",
+          "country": "St Kitts &amp; Nevis",
+          "name": "HUDA",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9772632",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "SHAYA 18513",
+          "type": "Tug"
+        },
+        {
+          "id": "9859480",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KAREN8",
+          "type": "Tug"
+        },
+        {
+          "id": "8961834",
+          "flag": "km",
+          "country": "Comoros",
+          "name": "YEKTA 7",
+          "type": "Pusher Tug"
+        },
+        {
+          "id": "9859480",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KAREN8",
+          "type": "Tug"
+        },
+        {
+          "id": "9387798",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "BAVAND",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9380300",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KHALIJ FARS 4",
+          "type": "Tug"
+        }
+      ],
+      "in_port": [
+        {
+          "id": "9820245",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "RAYEN",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9820271",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "HAMOUNA",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9820269",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "BARZIN",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9258870",
+          "flag": "gy",
+          "country": "Guyana",
+          "name": "UMA",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9213399",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "TERMEH",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9305192",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "AMINA",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9226944",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "ARTARIA",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9193185",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "GOLSAR",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9387798",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "BAVAND",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9405930",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "ARTMAN",
+          "type": "Bulk Carrier"
+        }
+      ]
+    }
+  },
+  "IRBIK001": {
+    "name": "Bandar Imam Khomeini (Iran)",
+    "activity": {
+      "expected": [
+        {
+          "id": "9605841",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "MINOAN FALCON",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9530632",
+          "flag": "mt",
+          "country": "Malta",
+          "name": "IOLCOS AMBITION",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9737591",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "TOMAHAWK",
+          "type": "Bulk Carrier"
+        }
+      ],
+      "arrivals": [
+        {
+          "id": "9257709",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "DADMAN3           &quot;,",
+          "type": "Tug"
+        },
+        {
+          "id": "9568562",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "MV ROSALINA",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "1038523",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "ANIA ARVAND",
+          "type": "Tug"
+        },
+        {
+          "id": "8310528",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "DREDGER.DEZFOOL",
+          "type": "Hopper Dredger"
+        },
+        {
+          "id": "422578000",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "GHIAM4",
+          "type": "Unknown"
+        },
+        {
+          "id": "422569000",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "HADI7",
+          "type": "Unknown"
+        },
+        {
+          "id": "9110535",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "SEPEHR PAYAM",
+          "type": "Container Ship"
+        },
+        {
+          "id": "422578000",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "GHIAM4",
+          "type": "Unknown"
+        },
+        {
+          "id": "422569000",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "HADI7",
+          "type": "Unknown"
+        },
+        {
+          "id": "8310528",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "DREDGER.DEZFOOL",
+          "type": "Hopper Dredger"
+        }
+      ],
+      "departures": [
+        {
+          "id": "422569000",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "HADI7",
+          "type": "Unknown"
+        },
+        {
+          "id": "8310528",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "DREDGER.DEZFOOL",
+          "type": "Hopper Dredger"
+        },
+        {
+          "id": "9257709",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "DADMAN3           &quot;,",
+          "type": "Tug"
+        },
+        {
+          "id": "8310528",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "DREDGER.DEZFOOL",
+          "type": "Hopper Dredger"
+        },
+        {
+          "id": "422578000",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "GHIAM4",
+          "type": "Unknown"
+        },
+        {
+          "id": "9507635",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "TAGBOAT SABOOR 2",
+          "type": "Tug"
+        },
+        {
+          "id": "422569000",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "HADI7",
+          "type": "Unknown"
+        },
+        {
+          "id": "8310528",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "DREDGER.DEZFOOL",
+          "type": "Hopper Dredger"
+        },
+        {
+          "id": "422569000",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "HADI7",
+          "type": "Unknown"
+        },
+        {
+          "id": "9363912",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KHALIJFAS2",
+          "type": "Tug"
+        }
+      ],
+      "in_port": [
+        {
+          "id": "9568562",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "MV ROSALINA",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9477816",
+          "flag": "mh",
+          "country": "Marshall Islands",
+          "name": "ASCANIO",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9328936",
+          "flag": "mh",
+          "country": "Marshall Islands",
+          "name": "STAR LAURA",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9529607",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "LB ENERGY",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9275141",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "MDL TOOFAN",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9268980",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "OMICRON NIKOS",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9110535",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "SEPEHR PAYAM",
+          "type": "Container Ship"
+        },
+        {
+          "id": "8310528",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "DREDGER.DEZFOOL",
+          "type": "Hopper Dredger"
+        },
+        {
+          "id": "8509076",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "SAGHA1",
+          "type": "Landing Craft"
+        },
+        {
+          "id": "9507635",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "TAGBOAT SABOOR 2",
+          "type": "Tug"
+        }
+      ]
+    }
+  },
+  "IRKHK001": {
+    "name": "Kharg Island (Iran)",
+    "activity": {
+      "expected": [],
+      "arrivals": [
+        {
+          "id": "9565091",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "DARYA BANDAR 2",
+          "type": "Tug"
+        },
+        {
+          "id": "9743576",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KAREN 4",
+          "type": "Tug"
+        },
+        {
+          "id": "9776339",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KAREN 6",
+          "type": "Tug"
+        },
+        {
+          "id": "9743576",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KAREN 4",
+          "type": "Tug"
+        },
+        {
+          "id": "9792577",
+          "flag": "vc",
+          "country": "St Vincent &amp; Grenadines",
+          "name": "SHANTIA",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "9776339",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KAREN 6",
+          "type": "Tug"
+        },
+        {
+          "id": "9656785",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "DELNIA1",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "9656785",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "DELNIA1",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "9743576",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KAREN 4",
+          "type": "Tug"
+        }
+      ],
+      "departures": [
+        {
+          "id": "9792577",
+          "flag": "vc",
+          "country": "St Vincent &amp; Grenadines",
+          "name": "DARYA BANDAR 2",
+          "type": "Tug"
+        },
+        {
+          "id": "9656785",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "DELNIA1",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "9743576",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KAREN 4",
+          "type": "Tug"
+        },
+        {
+          "id": "9406192",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "SHANTIA",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "9792577",
+          "flag": "vc",
+          "country": "St Vincent &amp; Grenadines",
+          "name": "KAREN 6",
+          "type": "Tug"
+        },
+        {
+          "id": "9743576",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KAREN 4",
+          "type": "Tug"
+        },
+        {
+          "id": "9776339",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KAREN 6",
+          "type": "Tug"
+        },
+        {
+          "id": "9656785",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "DELNIA1",
+          "type": "Offshore Tug/Supply Ship"
+        }
+      ],
+      "in_port": [
+        {
+          "id": "9237618",
+          "flag": "cw",
+          "country": "Curacao",
+          "name": "STAR LINE",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9776339",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KAREN 6",
+          "type": "Tug"
+        },
+        {
+          "id": "9743576",
+          "flag": "ir",
+          "country": "Iran",
+          "name": "KAREN 4",
+          "type": "Tug"
+        },
+        {
+          "id": "323456789",
+          "flag": "cu",
+          "country": "Cuba",
+          "name": "PILOT OFFICE",
+          "type": "Passenger ship"
+        },
+        {
+          "id": "244010835",
+          "flag": "nl",
+          "country": "Netherlands",
+          "name": "HSD-NET-83%",
+          "type": "Unknown"
+        },
+        {
+          "id": "677031300",
+          "flag": "tz",
+          "country": "Tanzania",
+          "name": "LIANA1",
+          "type": "Tug"
+        }
+      ]
+    }
+  },
+  "AEJEA001": {
+    "name": "Jebel Ali (UAE)",
+    "activity": {
+      "expected": [
+        {
+          "id": "9373618",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "MLS ONYX",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9704659",
+          "flag": "sg",
+          "country": "Singapore",
+          "name": "GFS GENESIS",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9155016",
+          "flag": "tv",
+          "country": "Tuvalu",
+          "name": "X PRESS KOHIMA",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9613812",
+          "flag": "hk",
+          "country": "Hong Kong",
+          "name": "ATLANTIC HARMONY",
+          "type": "General Cargo Ship"
+        },
+        {
+          "id": "9864564",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "YM CREDIBILITY",
+          "type": "Container Ship"
+        },
+        {
+          "id": "1110577",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "MING QIANG XING",
+          "type": "General Cargo Ship"
+        }
+      ],
+      "arrivals": [
+        {
+          "id": "470312000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "M/Y UAQ ONE",
+          "type": "Passenger ship"
+        },
+        {
+          "id": "470346000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "RED SEA II",
+          "type": "Unknown"
+        },
+        {
+          "id": "471229000",
+          "flag": "ae",
+          "country": "United Arab Emirates (UAE)",
+          "name": "AL DAIRAH",
+          "type": "Pilot"
+        },
+        {
+          "id": "9262493",
+          "flag": "hk",
+          "country": "Hong Kong",
+          "name": "YE CHI",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9524475",
+          "flag": "mh",
+          "country": "Marshall Islands",
+          "name": "ST. NIKOLAS",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "377561000",
+          "flag": "vc",
+          "country": "St Vincent &amp; Grenadines",
+          "name": "PROTEUS",
+          "type": "Unknown"
+        },
+        {
+          "id": "470346000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "RED SEA II",
+          "type": "Unknown"
+        },
+        {
+          "id": "471678000",
+          "flag": "ae",
+          "country": "United Arab Emirates (UAE)",
+          "name": "SEA MASTER 12",
+          "type": "Pleasure craft"
+        },
+        {
+          "id": "470479000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "SHARAF DIAMOND",
+          "type": "Other type"
+        },
+        {
+          "id": "9071648",
+          "flag": "km",
+          "country": "Comoros",
+          "name": "MV YASC 1",
+          "type": "General Cargo Ship"
+        }
+      ],
+      "departures": [
+        {
+          "id": "470312000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "M/Y UAQ ONE",
+          "type": "Passenger ship"
+        },
+        {
+          "id": "9783899",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "ASP AVANA",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "377561000",
+          "flag": "vc",
+          "country": "St Vincent &amp; Grenadines",
+          "name": "PROTEUS",
+          "type": "Unknown"
+        },
+        {
+          "id": "9718777",
+          "flag": "mh",
+          "country": "Marshall Islands",
+          "name": "MAHADAH SILVER",
+          "type": "Chemical/Oil Products Tanker"
+        },
+        {
+          "id": "471678000",
+          "flag": "ae",
+          "country": "United Arab Emirates (UAE)",
+          "name": "SEA MASTER 12",
+          "type": "Pleasure craft"
+        },
+        {
+          "id": "470346000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "RED SEA II",
+          "type": "Unknown"
+        },
+        {
+          "id": "470479000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "SHARAF DIAMOND",
+          "type": "Other type"
+        },
+        {
+          "id": "9399478",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "STALLION",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9134232",
+          "flag": "ag",
+          "country": "Antigua &amp; Barbuda",
+          "name": "PAYA LEBAR",
+          "type": "Container Ship"
+        },
+        {
+          "id": "471229000",
+          "flag": "ae",
+          "country": "United Arab Emirates (UAE)",
+          "name": "AL DAIRAH",
+          "type": "Pilot"
+        }
+      ],
+      "in_port": [
+        {
+          "id": "9519482",
+          "flag": "sa",
+          "country": "Saudi Arabia",
+          "name": "KIDAN",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9933626",
+          "flag": "sg",
+          "country": "Singapore",
+          "name": "EAGLE VERACRUZ",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9524475",
+          "flag": "mh",
+          "country": "Marshall Islands",
+          "name": "ST. NIKOLAS",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9299111",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "ELKA APOLLON",
+          "type": "Chemical/Oil Products Tanker"
+        },
+        {
+          "id": "9374856",
+          "flag": "sg",
+          "country": "Singapore",
+          "name": "ALORA",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9238791",
+          "flag": "mh",
+          "country": "Marshall Islands",
+          "name": "EVERLASTING GRACE",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9262493",
+          "flag": "hk",
+          "country": "Hong Kong",
+          "name": "YE CHI",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9901087",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "DIANELLA",
+          "type": "Chemical/Oil Products Tanker"
+        },
+        {
+          "id": "1022732",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "HOKKAIDO",
+          "type": "Chemical/Oil Products Tanker"
+        },
+        {
+          "id": "9367669",
+          "flag": "bs",
+          "country": "Bahamas",
+          "name": "PETALOUDA",
+          "type": "Chemical/Oil Products Tanker"
+        }
+      ]
+    }
+  },
+  "AEAUH001": {
+    "name": "Abu Dhabi (UAE)",
+    "activity": {
+      "expected": [
+        {
+          "id": "9753090",
+          "flag": "ae",
+          "country": "United Arab Emirates (UAE)",
+          "name": "ADNOC A15",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "9720811",
+          "flag": "ae",
+          "country": "United Arab Emirates (UAE)",
+          "name": "ADNOC S05",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "9725213",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "ADNOC 221",
+          "type": "Offshore Tug/Supply Ship"
+        }
+      ],
+      "arrivals": [
+        {
+          "id": "9875850",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "SEMAIH",
+          "type": "Tug"
+        },
+        {
+          "id": "470007563",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "SAFEER 2",
+          "type": "Pilot"
+        },
+        {
+          "id": "9593579",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "UMM KHORAH",
+          "type": "Landing Craft"
+        },
+        {
+          "id": "470112000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "P6",
+          "type": "Unknown"
+        },
+        {
+          "id": "9753090",
+          "flag": "ae",
+          "country": "United Arab Emirates (UAE)",
+          "name": "ADNOC A15",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "470644000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "M-13",
+          "type": "Tug"
+        },
+        {
+          "id": "9525716",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "FALCON",
+          "type": "Trans Shipment Vessel"
+        },
+        {
+          "id": "7027502",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "SEASHINE 1",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "1121332",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "JOPETWIL 69",
+          "type": "Landing Craft"
+        },
+        {
+          "id": "1045837",
+          "flag": "ae",
+          "country": "United Arab Emirates (UAE)",
+          "name": "BASITH",
+          "type": "Offshore Tug/Supply Ship"
+        }
+      ],
+      "departures": [
+        {
+          "id": "471397000",
+          "flag": "ae",
+          "country": "United Arab Emirates (UAE)",
+          "name": "SAFEEN GREEN",
+          "type": "Other type"
+        },
+        {
+          "id": "9525728",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "ADNOC C08",
+          "type": "Crew Boat"
+        },
+        {
+          "id": "9778222",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "VORTEX VELA",
+          "type": "Tug"
+        },
+        {
+          "id": "9619074",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "ADNOC A02",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "1039486",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "AL ALIAH",
+          "type": "Passenger/Ro-Ro Cargo Ship"
+        },
+        {
+          "id": "9522049",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "MUSSAFAH 1",
+          "type": "Tug"
+        },
+        {
+          "id": "9616242",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "FETAER 2",
+          "type": "Landing Craft"
+        },
+        {
+          "id": "470112000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "P6",
+          "type": "Unknown"
+        },
+        {
+          "id": "9475894",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "ADNOC 851",
+          "type": "Offshore Tug/Supply Ship"
+        }
+      ],
+      "in_port": [
+        {
+          "id": "9696917",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "ANTONIE OLDENDORFF",
+          "type": "Self Discharging Bulk Carrier"
+        },
+        {
+          "id": "9391270",
+          "flag": "mh",
+          "country": "Marshall Islands",
+          "name": "SAFEEN 3000",
+          "type": "Pipe Layer"
+        },
+        {
+          "id": "9229233",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "ARD HORIZON",
+          "type": "LPG Tanker"
+        },
+        {
+          "id": "9525716",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "FALCON",
+          "type": "Trans Shipment Vessel"
+        },
+        {
+          "id": "9525728",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "HAWK",
+          "type": "Trans Shipment Vessel"
+        },
+        {
+          "id": "9480978",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "EAGLE",
+          "type": "Trans Shipment Vessel"
+        },
+        {
+          "id": "9804502",
+          "flag": "vc",
+          "country": "St Vincent &amp; Grenadines",
+          "name": "QMS AL SHAHAMA",
+          "type": "Offshore Support Vessel"
+        },
+        {
+          "id": "9770218",
+          "flag": "vc",
+          "country": "St Vincent &amp; Grenadines",
+          "name": "QMS PEARL",
+          "type": "Offshore Support Vessel"
+        },
+        {
+          "id": "9647033",
+          "flag": "mh",
+          "country": "Marshall Islands",
+          "name": "SAFEEN VICTORIA",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "9594171",
+          "flag": "mh",
+          "country": "Marshall Islands",
+          "name": "SAFEEN OSV PEARL",
+          "type": "Offshore Support Vessel"
+        }
+      ]
+    }
+  },
+  "AEKLF001": {
+    "name": "Khor Fakkan (UAE)",
+    "activity": {
+      "expected": [
+        {
+          "id": "8524387",
+          "flag": "cw",
+          "country": "Curacao",
+          "name": "SAVONA",
+          "type": "Oil Products Tanker"
+        },
+        {
+          "id": "9244635",
+          "flag": "mg",
+          "country": "Madagascar",
+          "name": "AMAK",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9343118",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "TRITON EXPLORE",
+          "type": "LPG Tanker"
+        },
+        {
+          "id": "9304423",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "MSC MARIA ELENA",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9399791",
+          "flag": "in",
+          "country": "India",
+          "name": "SSL GODAVARI",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9166780",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "MSC ELLEN",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9286437",
+          "flag": "pw",
+          "country": "Palau",
+          "name": "SELENIA",
+          "type": "Bitumen Tanker"
+        },
+        {
+          "id": "9241918",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "TSS AMBER",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9414113",
+          "flag": "sg",
+          "country": "Singapore",
+          "name": "WINNER 6",
+          "type": "Chemical/Oil Products Tanker"
+        },
+        {
+          "id": "9401271",
+          "flag": "cy",
+          "country": "Cyprus",
+          "name": "GFS GALAXY",
+          "type": "Container Ship"
+        }
+      ],
+      "arrivals": [
+        {
+          "id": "470020000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "WHALES PEARL",
+          "type": "Passenger ship"
+        },
+        {
+          "id": "9054951",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "NMS 402",
+          "type": "Offshore Support Vessel"
+        },
+        {
+          "id": "470989000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "MALIK",
+          "type": "Other type"
+        },
+        {
+          "id": "9005053",
+          "flag": "ao",
+          "country": "Angola",
+          "name": "AXON I",
+          "type": "LPG Tanker"
+        },
+        {
+          "id": "7915785",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "NATHALIA",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "8951944",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "SM PEACE",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "470155000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "AL MUKHAIBE",
+          "type": "Tug"
+        },
+        {
+          "id": "9818204",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "TOSHA",
+          "type": "Crew Boat"
+        }
+      ],
+      "departures": [
+        {
+          "id": "470004883",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "RED PLANET 1",
+          "type": "Other type"
+        },
+        {
+          "id": "9054951",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "NMS 402",
+          "type": "Offshore Support Vessel"
+        },
+        {
+          "id": "8873441",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "AL BAHAR 2",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "470020000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "WHALES PEARL",
+          "type": "Passenger ship"
+        },
+        {
+          "id": "9217981",
+          "flag": "km",
+          "country": "Comoros",
+          "name": "LATITUDE",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "470989000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "MALIK",
+          "type": "Other type"
+        },
+        {
+          "id": "7915785",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "NATHALIA",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "9189457",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "AL MUKHAIBE",
+          "type": "Tug"
+        }
+      ],
+      "in_port": [
+        {
+          "id": "9776547",
+          "flag": "gr",
+          "country": "Greece",
+          "name": "MARAN ARETE",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9387578",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "ELIZA",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9292486",
+          "flag": "mz",
+          "country": "Mozambique",
+          "name": "GOLDCREST",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9203265",
+          "flag": "bw",
+          "country": "Botswana",
+          "name": "VORAS",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9203277",
+          "flag": "bw",
+          "country": "Botswana",
+          "name": "LEXIE",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9236250",
+          "flag": "bw",
+          "country": "Botswana",
+          "name": "MT VIRGO",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9074640",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "ALHAMRA",
+          "type": "LNG Tanker"
+        },
+        {
+          "id": "9074638",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "MRAWEH",
+          "type": "LNG Tanker"
+        },
+        {
+          "id": "9219056",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "REX 1",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9173745",
+          "flag": "gy",
+          "country": "Guyana",
+          "name": "CHLOE",
+          "type": "Crude Oil Tanker"
+        }
+      ]
+    }
+  },
+  "AEFJR001": {
+    "name": "Fujairah (UAE)",
+    "activity": {
+      "expected": [
+        {
+          "id": "9419357",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "IASONAS",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9640607",
+          "flag": "sg",
+          "country": "Singapore",
+          "name": "PROPEL SUCCESS",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9859791",
+          "flag": "mh",
+          "country": "Marshall Islands",
+          "name": "AVRA",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9623685",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "ANGOLA B",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9390927",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "KERALA",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9825025",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "MONJASA SHIPPER",
+          "type": "Bunkering Tanker"
+        },
+        {
+          "id": "9434905",
+          "flag": "in",
+          "country": "India",
+          "name": "CMA CGM VITORIA",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9793820",
+          "flag": "bd",
+          "country": "Bangladesh",
+          "name": "BANGLAR JOYJATRA",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9281566",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "TORIN",
+          "type": "Chemical/Oil Products Tanker"
+        },
+        {
+          "id": "9390939",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "SOVEREIGN",
+          "type": "Crude Oil Tanker"
+        }
+      ],
+      "arrivals": [
+        {
+          "id": "470654000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "AL HAIL 1",
+          "type": "Other type"
+        },
+        {
+          "id": "8988210",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "EASTERN PERUMAI",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "470292000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "P14",
+          "type": "Towing vessel"
+        },
+        {
+          "id": "9536131",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "SM 2 RAMEE",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "471672000",
+          "flag": "ae",
+          "country": "United Arab Emirates (UAE)",
+          "name": "MIKASA",
+          "type": "Passenger ship"
+        },
+        {
+          "id": "8956358",
+          "flag": "ae",
+          "country": "United Arab Emirates (UAE)",
+          "name": "AL BAHAR 4",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "470181000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "EASTERN PIONEER",
+          "type": "Tug"
+        },
+        {
+          "id": "9275751",
+          "flag": "cy",
+          "country": "Cyprus",
+          "name": "OCTA DIVINE",
+          "type": "Oil Products Tanker"
+        },
+        {
+          "id": "470193000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "EASTERN VETRI",
+          "type": "Tug"
+        }
+      ],
+      "departures": [
+        {
+          "id": "4202266",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "ALFOLK EXPRESS 1",
+          "type": "Tug"
+        },
+        {
+          "id": "8983193",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "FOCAL POINT",
+          "type": "Crew Boat"
+        },
+        {
+          "id": "470210000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "AL HAIL 1",
+          "type": "Other type"
+        },
+        {
+          "id": "471186000",
+          "flag": "ae",
+          "country": "United Arab Emirates (UAE)",
+          "name": "FOCAL STAR",
+          "type": "Unknown"
+        },
+        {
+          "id": "470292000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "P14",
+          "type": "Towing vessel"
+        },
+        {
+          "id": "8988210",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "EASTERN PERUMAI",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "470180000",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "SM 2 RAMEE",
+          "type": "Offshore Tug/Supply Ship"
+        },
+        {
+          "id": "8956358",
+          "flag": "ae",
+          "country": "United Arab Emirates (UAE)",
+          "name": "AL BAHAR 4",
+          "type": "Offshore Tug/Supply Ship"
+        }
+      ],
+      "in_port": [
+        {
+          "id": "9404924",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "C.GALAXY",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9411032",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "TOGO PROSPERITY",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9596947",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "BAHRAIN PROSPERITY",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9515929",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "NEW STRENGTH",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9398060",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "NEW PARADISE",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9056806",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "VISTA III",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9982691",
+          "flag": "mh",
+          "country": "Marshall Islands",
+          "name": "SFL TIGRIS",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9849631",
+          "flag": "kw",
+          "country": "Kuwait",
+          "name": "GAS UMM AL ROWAISAT",
+          "type": "LPG Tanker"
+        },
+        {
+          "id": "9704661",
+          "flag": "sg",
+          "country": "Singapore",
+          "name": "GFS GISELLE",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9719587",
+          "flag": "mh",
+          "country": "Marshall Islands",
+          "name": "DANAE",
+          "type": "Bulk Carrier"
+        }
+      ]
+    }
+  },
+  "OMSOH001": {
+    "name": "Sohar (Oman)",
+    "activity": {
+      "expected": [
+        {
+          "id": "9542831",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "PVT FORTUNE",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9800257",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "KASOS",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9138343",
+          "flag": "kn",
+          "country": "St Kitts &amp; Nevis",
+          "name": "LUCIA",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9273650",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "SEAWAY",
+          "type": "Chemical/Oil Products Tanker"
+        },
+        {
+          "id": "9944637",
+          "flag": "cy",
+          "country": "Cyprus",
+          "name": "STENA PROVIDENT",
+          "type": "Chemical/Oil Products Tanker"
+        },
+        {
+          "id": "9475349",
+          "flag": "pw",
+          "country": "Palau",
+          "name": "ELEGANCE",
+          "type": "Oil Products Tanker"
+        },
+        {
+          "id": "1027469",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "HONG DA XIN 768",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9460459",
+          "flag": "mh",
+          "country": "Marshall Islands",
+          "name": "SONGA DIAMOND",
+          "type": "Chemical/Oil Products Tanker"
+        },
+        {
+          "id": "9038701",
+          "flag": "dj",
+          "country": "Djibouti",
+          "name": "JENNY LUCKY",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9416018",
+          "flag": "qa",
+          "country": "Qatar",
+          "name": "OSHAIRIJ",
+          "type": "Container Ship"
+        }
+      ],
+      "arrivals": [
+        {
+          "id": "471053000",
+          "flag": "ae",
+          "country": "United Arab Emirates (UAE)",
+          "name": "AD COMET II",
+          "type": "WIG"
+        },
+        {
+          "id": "8923818",
+          "flag": "km",
+          "country": "Comoros",
+          "name": "ILDA",
+          "type": "General Cargo Ship"
+        },
+        {
+          "id": "9101704",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "YACHT 1 VETTATH",
+          "type": "Mooring Vessel"
+        },
+        {
+          "id": "8593572",
+          "flag": "km",
+          "country": "Comoros",
+          "name": "VLC 1",
+          "type": "General Cargo Ship"
+        },
+        {
+          "id": "9873539",
+          "flag": "om",
+          "country": "Oman",
+          "name": "SVITZER SAHAM",
+          "type": "Tug"
+        },
+        {
+          "id": "9542831",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "PVT FORTUNE",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9861158",
+          "flag": "om",
+          "country": "Oman",
+          "name": "SVITZER LIWA",
+          "type": "Tug"
+        },
+        {
+          "id": "9663817",
+          "flag": "mh",
+          "country": "Marshall Islands",
+          "name": "FUAT BEY",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9436434",
+          "flag": "sg",
+          "country": "Singapore",
+          "name": "GFS PRECIOUS",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9147394",
+          "flag": "gn",
+          "country": "Guinea",
+          "name": "GAS BELLA",
+          "type": "LPG Tanker"
+        }
+      ],
+      "departures": [
+        {
+          "id": "9873527",
+          "flag": "om",
+          "country": "Oman",
+          "name": "SVITZER SHINAS",
+          "type": "Tug"
+        },
+        {
+          "id": "9460461",
+          "flag": "mh",
+          "country": "Marshall Islands",
+          "name": "SONGA TOPAZ",
+          "type": "Oil Products Tanker"
+        },
+        {
+          "id": "9540912",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "TRISTAR COURAGE",
+          "type": "Bunkering Tanker"
+        },
+        {
+          "id": "471053000",
+          "flag": "ae",
+          "country": "United Arab Emirates (UAE)",
+          "name": "AD COMET II",
+          "type": "WIG"
+        },
+        {
+          "id": "8593572",
+          "flag": "km",
+          "country": "Comoros",
+          "name": "VLC 1",
+          "type": "General Cargo Ship"
+        },
+        {
+          "id": "9101704",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "YACHT 1 VETTATH",
+          "type": "Mooring Vessel"
+        },
+        {
+          "id": "9861158",
+          "flag": "om",
+          "country": "Oman",
+          "name": "SVITZER LIWA",
+          "type": "Tug"
+        },
+        {
+          "id": "9873539",
+          "flag": "om",
+          "country": "Oman",
+          "name": "SVITZER SAHAM",
+          "type": "Tug"
+        },
+        {
+          "id": "9542831",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "PVT FORTUNE",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9663817",
+          "flag": "mh",
+          "country": "Marshall Islands",
+          "name": "FUAT BEY",
+          "type": "Bulk Carrier"
+        }
+      ],
+      "in_port": [
+        {
+          "id": "9297319",
+          "flag": "cw",
+          "country": "Curacao",
+          "name": "LORA",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9516428",
+          "flag": "hk",
+          "country": "Hong Kong",
+          "name": "COSCO ENGLAND",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9282106",
+          "flag": "ao",
+          "country": "Angola",
+          "name": "SIONA",
+          "type": "LPG Tanker"
+        },
+        {
+          "id": "9350422",
+          "flag": "mz",
+          "country": "Mozambique",
+          "name": "ASTRA",
+          "type": "LPG Tanker"
+        },
+        {
+          "id": "9208239",
+          "flag": "km",
+          "country": "Comoros",
+          "name": "GAFUS",
+          "type": "LPG Tanker"
+        },
+        {
+          "id": "1050155",
+          "flag": "mt",
+          "country": "Malta",
+          "name": "TOINY",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9936939",
+          "flag": "mt",
+          "country": "Malta",
+          "name": "SEACHAMPION",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9426594",
+          "flag": "lr",
+          "country": "Liberia",
+          "name": "MARGARITA",
+          "type": "Crude Oil Tanker"
+        },
+        {
+          "id": "9170298",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "BROTHER GLORY",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9436434",
+          "flag": "sg",
+          "country": "Singapore",
+          "name": "GFS PRECIOUS",
+          "type": "Container Ship"
+        }
+      ]
+    }
+  },
+  "OMOPQ002": {
+    "name": "Muscat (Oman)",
+    "activity": {
+      "expected": [
+        {
+          "id": "9141106",
+          "flag": "km",
+          "country": "Comoros",
+          "name": "TARLAN",
+          "type": "Container Ship"
+        },
+        {
+          "id": "9713894",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "CASTOR LEADER",
+          "type": "Vehicles Carrier"
+        },
+        {
+          "id": "9832573",
+          "flag": "jp",
+          "country": "Japan",
+          "name": "MONOCEROS LEADER",
+          "type": "Vehicles Carrier"
+        }
+      ],
+      "arrivals": [
+        {
+          "id": "9169770",
+          "flag": "ck",
+          "country": "Cook Islands",
+          "name": "P K A",
+          "type": "Bitumen Tanker"
+        },
+        {
+          "id": "9029994",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "TRISTAR PRIDE",
+          "type": "Oil Products Tanker"
+        },
+        {
+          "id": "616518000",
+          "flag": "km",
+          "country": "Comoros",
+          "name": "FAJAR1 1200598",
+          "type": "Local type"
+        },
+        {
+          "id": "461000341",
+          "flag": "om",
+          "country": "Oman",
+          "name": "GAC SHARQ",
+          "type": "Other type"
+        },
+        {
+          "id": "461000341",
+          "flag": "om",
+          "country": "Oman",
+          "name": "GAC SHARQ",
+          "type": "Other type"
+        },
+        {
+          "id": "1070181",
+          "flag": "sg",
+          "country": "Singapore",
+          "name": "INCE SAMSUN",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "461000341",
+          "flag": "om",
+          "country": "Oman",
+          "name": "GAC SHARQ",
+          "type": "Other type"
+        },
+        {
+          "id": "9592410",
+          "flag": "om",
+          "country": "Oman",
+          "name": "SVITZER BETA",
+          "type": "Tug"
+        },
+        {
+          "id": "9146895",
+          "flag": "pw",
+          "country": "Palau",
+          "name": "LORD HASSAN",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "461000341",
+          "flag": "om",
+          "country": "Oman",
+          "name": "GAC SHARQ",
+          "type": "Other type"
+        }
+      ],
+      "departures": [
+        {
+          "id": "1070181",
+          "flag": "sg",
+          "country": "Singapore",
+          "name": "INCE SAMSUN",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9360398",
+          "flag": "bb",
+          "country": "Barbados",
+          "name": "Y L W",
+          "type": "Bitumen Tanker"
+        },
+        {
+          "id": "9029994",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "TRISTAR PRIDE",
+          "type": "Oil Products Tanker"
+        },
+        {
+          "id": "461000341",
+          "flag": "om",
+          "country": "Oman",
+          "name": "GAC SHARQ",
+          "type": "Other type"
+        },
+        {
+          "id": "461000341",
+          "flag": "om",
+          "country": "Oman",
+          "name": "GAC SHARQ",
+          "type": "Other type"
+        },
+        {
+          "id": "9029994",
+          "flag": "ae",
+          "country": "UAE",
+          "name": "TRISTAR PRIDE",
+          "type": "Oil Products Tanker"
+        },
+        {
+          "id": "9139945",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "GLENDALE",
+          "type": "LPG Tanker"
+        },
+        {
+          "id": "461000341",
+          "flag": "om",
+          "country": "Oman",
+          "name": "GAC SHARQ",
+          "type": "Other type"
+        },
+        {
+          "id": "9592410",
+          "flag": "om",
+          "country": "Oman",
+          "name": "SVITZER BETA",
+          "type": "Tug"
+        },
+        {
+          "id": "9146895",
+          "flag": "pw",
+          "country": "Palau",
+          "name": "LORD HASSAN",
+          "type": "Bulk Carrier"
+        }
+      ],
+      "in_port": [
+        {
+          "id": "1070181",
+          "flag": "sg",
+          "country": "Singapore",
+          "name": "INCE SAMSUN",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9768045",
+          "flag": "sa",
+          "country": "Saudi Arabia",
+          "name": "BAHRI SETA",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9714460",
+          "flag": "om",
+          "country": "Oman",
+          "name": "FULK AL SALAMAH",
+          "type": "Yacht"
+        },
+        {
+          "id": "9463774",
+          "flag": "om",
+          "country": "Oman",
+          "name": "AL SAID",
+          "type": "Yacht"
+        },
+        {
+          "id": "9146895",
+          "flag": "pw",
+          "country": "Palau",
+          "name": "LORD HASSAN",
+          "type": "Bulk Carrier"
+        },
+        {
+          "id": "9169770",
+          "flag": "ck",
+          "country": "Cook Islands",
+          "name": "P K A",
+          "type": "Bitumen Tanker"
+        },
+        {
+          "id": "9360398",
+          "flag": "bb",
+          "country": "Barbados",
+          "name": "Y L W",
+          "type": "Bitumen Tanker"
+        },
+        {
+          "id": "9133599",
+          "flag": "pa",
+          "country": "Panama",
+          "name": "PRINCE IX",
+          "type": "Bitumen Tanker"
+        },
+        {
+          "id": "8806321",
+          "flag": "sz",
+          "country": "Swaziland",
+          "name": "M.T.MIB1",
+          "type": "Bitumen Tanker"
+        },
+        {
+          "id": "9592410",
+          "flag": "om",
+          "country": "Oman",
+          "name": "SVITZER BETA",
+          "type": "Tug"
+        }
+      ]
+    }
+  }
+}

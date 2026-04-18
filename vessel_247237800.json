@@ -1,0 +1,35 @@
+{
+  "search_row": {
+    "mmsi": "247237800",
+    "flag": "it",
+    "country": "Italy",
+    "name": "QUEEN",
+    "type": "Unknown"
+  },
+  "details": {
+    "ss": 0.0,
+    "country": "Italy",
+    "imo": 0,
+    "al": 40,
+    "pic": "0-247237800-39503a04b9bc44dae166f2fc11709ed0",
+    "dest": "",
+    "type": "Unknown",
+    "m9": 0,
+    "gt": 0,
+    "a2": "it",
+    "r": 1,
+    "cu": 72.4,
+    "dw": 0,
+    ".ns": -1,
+    "etaTS": 0,
+    "draught": 24,
+    "aw": 8,
+    "slp": false,
+    "name": "QUEEN",
+    "y": 0,
+    "sl": false,
+    "drm": "",
+    "scn": 0,
+    "ts": 1758714395
+  }
+}

@@ -15,7 +15,7 @@ API_VESSELS = "https://meri.digitraffic.fi/api/ais/v1/vessels"
 BOUNDING_BOX = None
 
 # Set True to print raw JSON for each vessel
-DEBUG = True
+DEBUG = False
 
 NAV_STATUS = {
     0: "Under way",

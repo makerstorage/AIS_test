@@ -1,0 +1,241 @@
+{
+  "expected": [
+    {
+      "id": "9349679",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "ZARDIS",
+      "type": "Container Ship"
+    },
+    {
+      "id": "9096325",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "ARIA",
+      "type": "Landing Craft"
+    },
+    {
+      "id": "9465760",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "BATIS",
+      "type": "Bulk Carrier"
+    }
+  ],
+  "arrivals": [
+    {
+      "id": "9389667",
+      "flag": "km",
+      "country": "Comoros",
+      "name": "ARAD1",
+      "type": "Landing Craft"
+    },
+    {
+      "id": "9197088",
+      "flag": "kn",
+      "country": "St Kitts &amp; Nevis",
+      "name": "HUDA",
+      "type": "Bulk Carrier"
+    },
+    {
+      "id": "9820312",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "NIKI",
+      "type": "Chemical/Oil Products Tanker"
+    },
+    {
+      "id": "9772632",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "SHAYA 18513",
+      "type": "Tug"
+    },
+    {
+      "id": "9859480",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "KAREN8",
+      "type": "Tug"
+    },
+    {
+      "id": "9387798",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "BAVAND",
+      "type": "Bulk Carrier"
+    },
+    {
+      "id": "9380300",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "KHALIJ FARS 4",
+      "type": "Tug"
+    },
+    {
+      "id": "9748875",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "422071900",
+      "type": "Tug"
+    },
+    {
+      "id": "9387786",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "PARSHAD",
+      "type": "Bulk Carrier"
+    },
+    {
+      "id": "9859480",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "KAREN8",
+      "type": "Tug"
+    }
+  ],
+  "departures": [
+    {
+      "id": "9387803",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "DELNAVAZ",
+      "type": "Bulk Carrier"
+    },
+    {
+      "id": "9197088",
+      "flag": "kn",
+      "country": "St Kitts &amp; Nevis",
+      "name": "HUDA",
+      "type": "Bulk Carrier"
+    },
+    {
+      "id": "9772632",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "SHAYA 18513",
+      "type": "Tug"
+    },
+    {
+      "id": "9859480",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "KAREN8",
+      "type": "Tug"
+    },
+    {
+      "id": "8961834",
+      "flag": "km",
+      "country": "Comoros",
+      "name": "YEKTA 7",
+      "type": "Pusher Tug"
+    },
+    {
+      "id": "9859480",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "KAREN8",
+      "type": "Tug"
+    },
+    {
+      "id": "9387798",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "BAVAND",
+      "type": "Bulk Carrier"
+    },
+    {
+      "id": "9380300",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "KHALIJ FARS 4",
+      "type": "Tug"
+    },
+    {
+      "id": "9434852",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "LYAN DARYA",
+      "type": "Tug"
+    },
+    {
+      "id": "9387786",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "PARSHAD",
+      "type": "Bulk Carrier"
+    }
+  ],
+  "in_port": [
+    {
+      "id": "9820269",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "BARZIN",
+      "type": "Container Ship"
+    },
+    {
+      "id": "9820271",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "HAMOUNA",
+      "type": "Container Ship"
+    },
+    {
+      "id": "9820245",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "RAYEN",
+      "type": "Container Ship"
+    },
+    {
+      "id": "9258870",
+      "flag": "gy",
+      "country": "Guyana",
+      "name": "UMA",
+      "type": "Crude Oil Tanker"
+    },
+    {
+      "id": "9213399",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "TERMEH",
+      "type": "Bulk Carrier"
+    },
+    {
+      "id": "9305192",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "AMINA",
+      "type": "Bulk Carrier"
+    },
+    {
+      "id": "9226944",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "ARTARIA",
+      "type": "Bulk Carrier"
+    },
+    {
+      "id": "9193185",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "GOLSAR",
+      "type": "Bulk Carrier"
+    },
+    {
+      "id": "9387786",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "PARSHAD",
+      "type": "Bulk Carrier"
+    },
+    {
+      "id": "9405930",
+      "flag": "ir",
+      "country": "Iran",
+      "name": "ARTMAN",
+      "type": "Bulk Carrier"
+    }
+  ]
+}
